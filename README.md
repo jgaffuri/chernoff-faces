@@ -1,6 +1,6 @@
 # Chernoff faces
 
-This repository proposes some predefined Chernoff faces images.
+This repository proposes some predefined Chernoff faces images. There is currently one set of images representing faces by age (3 classes), sex (2 classes) and satisfaction level (3 classes).
 
 [<img src="https://jgaffuri.github.io/chernoff-faces/src/chernoff_sex_age_happy.svg" height="500" />](src/chernoff_sex_age_happy.svg)
 
