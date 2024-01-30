@@ -1,6 +1,7 @@
 # Chernoff faces
 
-This repository proposes some examples of Chernoff faces like images.
+This repository proposes some predefined Chernoff faces images.
+
 
 
  ![chernoff face](/src/chernoff_sex_age_happy.svg)
